@@ -1,0 +1,12 @@
+#服务器端口
+server:
+  port: 7878
+
+#redis
+spring:
+  redis:
+    host: r-bp1qmog73tcsp7ifrfpd.redis.rds.aliyuncs.com
+    port: 16379
+    password: 2832821Lqs
+    database: 1
+    timeout: 3000
